@@ -1,1 +1,34 @@
 
+CS-SBU-ComputationalNeuroScience2021-projects
+
+This repository contains projects completed by Ali Vakili (98222111) as part of the Computational Neuroscience course at Shahid Beheshti University in 2021.
+
+
+Project 1
+
+The first project in this repository is a simulation of a simple neural network. The main script, main.py, contains the implementation of the network and a demonstration of its functionality. The project aims to show the basic concepts of neural networks and how they can be applied to solve problems.
+
+
+Dependencies
+
+Python 3.x
+
+NumPy
+
+Running the script
+
+The script can be run from the command line using the following command:
+
+
+Copy code
+
+python main.py
+
+Additional Information
+
+For more information on the project and the implementation details, please refer to the comments in the main.py script.
+
+
+Contribution
+
+This project is developed by Ali Vakili. Any contribution or suggestion for improving the project is welcome.
